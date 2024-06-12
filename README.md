@@ -9,3 +9,5 @@ then cd test-repository
 then code .
 
 this is a second update
+
+Updating directly inside of github
